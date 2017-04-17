@@ -1,0 +1,10 @@
+a1:
+import unittest
+unittest.TestCase
+.assertEqual
+unittest.main()
+
+a2:
+quicksort??
+threading??
+
